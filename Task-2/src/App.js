@@ -33,7 +33,7 @@ function App() {
               // target="_blank"
               class="active"
             >
-              LetsGrowMore
+              Niraj
             </a>
             <a href="#getusers" class="btn" onClick={handleClick}>
               Get Users
